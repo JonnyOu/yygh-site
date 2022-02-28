@@ -1,6 +1,6 @@
-# {{ yygh-site }}
+# yygh-site 
 
-> {{ 尚医通项目 - 前台 }}
+> 尚医通项目 - 前台 
 
 ## Build Setup
 
