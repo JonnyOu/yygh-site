@@ -1,6 +1,6 @@
-# {{ name }}
+# {{ yygh-site }}
 
-> {{ description }}
+> {{ 尚医通项目 - 前台 }}
 
 ## Build Setup
 
@@ -19,5 +19,4 @@ $ npm start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
